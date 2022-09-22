@@ -11,12 +11,12 @@ The properties of the surface are described using the *metalness* and *roughness
 The following images show two exemplary renderings.
 
 <img
-    src="/res/tracedImage1.png"
+    src="/res/pbr_1.png"
     height="250"
     align="left">
     
 <img
-    src="/res/tracedImage2.png"
+    src="/res/pbr_2.png"
     height="250"> 
 
 
