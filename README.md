@@ -1,6 +1,6 @@
 # Computer Graphics: Physically-Based Rendering
 
-This repository hosts an implementation of a physically-based rendering (PBR) algorithm for rendering an object in a dark room. The project is linked to a lecture offered by the [Visualization and MultiMedia Lab](https://www.ifi.uzh.ch/en/vmml/teaching.html) in the Department of Informatics at the University of Zurich, Switzerland.
+This repository hosts an implementation of a physically-based rendering (PBR) algorithm for rendering an object in a dark room. The project has been completed as part of a lecture offered by the [Visualization and MultiMedia Lab](https://www.ifi.uzh.ch/en/vmml/teaching.html) in the Department of Informatics at the University of Zurich, Switzerland.
 
 ---
 ## Project Description
