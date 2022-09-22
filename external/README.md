@@ -1,0 +1,1 @@
+This project requires the same dependencies as the project [ray_tracer](https://github.com/miksut/ray_tracer/tree/master/external). However, due to storage considerations, these dependencies have not been uploaded again. Hence, when building the project using CMake, make sure that the same files are contained in the current directory.
